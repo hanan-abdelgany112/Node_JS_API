@@ -1,0 +1,3 @@
+//as fidler
+GET http://localhost:3000/check Authorization: Bearer
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbmFkQGdtYWlsLmNvbSIsImlhdCI6MTY1MzY2MTE2MiwiZXhwIjoxNjUzNjYyMzYyfQ.jhE6-SA-8o3U8CyRN18s9s2tHVhWHI9c2DmAreizW_Q
